@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // Typed Text Effect
   const typedTextElement = document.querySelector(".typed-text")
   if (typedTextElement) {
-    const words = ["Web Developer", "Designer", "Freelancer", "Photographer"]
+    const words = ["Web Developer", "AI Engineer", "Freelancer", "Technical Lead "]
     let wordIndex = 0
     let charIndex = 0
     let isDeleting = false
