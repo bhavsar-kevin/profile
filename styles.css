@@ -92,6 +92,7 @@ img {
 .btn:hover {
   background: var(--secondary-color);
   transform: translateY(-3px);
+  color: white;
 }
 
 .btn-secondary {
@@ -257,7 +258,7 @@ nav {
 .hero-image img {
   max-width: 100%;
   border-radius: 20px;
-  box-shadow: var(--box-shadow);
+  /* box-shadow: var(--box-shadow); */
 }
 
 /* About Section */
